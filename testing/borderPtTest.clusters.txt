@@ -1,0 +1,26 @@
+Input parameters:
+  Input file: ../TestCases/borderPtTest.tsv
+  Eps: 0.2
+  Min. Pts: 4
+
+Clustering info:
+  Number of clusters: 1
+  Points to cluster: 6
+  Points contained in clusters: 6
+  Points considered noise: 0
+  Total time to cluster (minutes): 0.0001
+
+Cluster summary:
+Cluster Id	Point in Cluster	Average coverage +/- std
+Cluster 0	6	1 +/- 0
+
+Cluster 0 (6 points, coverage: 1 +/- 0):
+pt1	1
+pt0	1
+pt2	1
+pt3	1
+pt4	1
+pt5	1
+
+Noise (0 points):
+

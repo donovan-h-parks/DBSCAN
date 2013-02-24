@@ -1,0 +1,24 @@
+Input parameters:
+  Input file: ../TestCases/noise.tsv
+  Eps: 0.2
+  Min. Pts: 3
+
+Clustering info:
+  Number of clusters: 0
+  Points to cluster: 8
+  Points considered nosie: 8
+  Total time to cluster (minutes): 0.0001
+
+Cluster summary:
+Cluster Id	Point in Cluster	Average Coverage
+
+Noise (8 points):
+Nosie0	1
+Nosie1	1
+Nosie2	1
+Nosie3	1
+Nosie4	1
+Nosie5	1
+Nosie6	1
+Nosie7	1
+

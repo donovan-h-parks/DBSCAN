@@ -1,0 +1,68 @@
+Input parameters:
+  Input file: ../TestCases/gaussian4.tsv
+  Eps: 0.2
+  Min. Pts: 3
+
+Clustering info:
+  Number of clusters: 4
+  Points to cluster: 40
+  Points considered nosie: 0
+  Total time to cluster (minutes): 0.000883333
+
+Cluster summary:
+Cluster Id	Point in Cluster	Average Coverage
+Cluster 0	10	1
+Cluster 1	10	1
+Cluster 2	10	1
+Cluster 3	10	1
+
+Cluster 0 (10 points):
+0_0	1
+0_1	1
+0_2	1
+0_3	1
+0_4	1
+0_5	1
+0_6	1
+0_7	1
+0_8	1
+0_9	1
+
+Cluster 1 (10 points):
+1_0	1
+1_1	1
+1_2	1
+1_3	1
+1_4	1
+1_5	1
+1_6	1
+1_7	1
+1_8	1
+1_9	1
+
+Cluster 2 (10 points):
+2_0	1
+2_1	1
+2_2	1
+2_3	1
+2_4	1
+2_5	1
+2_6	1
+2_7	1
+2_8	1
+2_9	1
+
+Cluster 3 (10 points):
+3_0	1
+3_1	1
+3_2	1
+3_3	1
+3_4	1
+3_5	1
+3_6	1
+3_7	1
+3_8	1
+3_9	1
+
+Noise (0 points):
+
